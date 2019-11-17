@@ -1,0 +1,17 @@
+DL - CNN Lab
+
+Students:
+	Roberto Fernández
+	Göktug Cengiz
+
+The goal of the project is to classify the animals and to be able to identify
+their species. The data set used in this project was provided by Kaggle. It
+contains about 28K medium quality animal images belonging to 10 categories:
+dog, cat, horse, spider, butterfly, chicken, sheep, cow, squirrel and elephant.
+In deep learning, a convolutional neural network (CNN, or ConvNet) is a class
+of deep neural networks, most commonly applied to analyzing visual imagery.
+Therefore, we will use CNN in this study to achieve our goal.
+
+This dataset can be found here:
+https://www.kaggle.com/alessiocorrado99/animals10
+
